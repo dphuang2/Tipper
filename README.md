@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Since I don't own a macintosh I had to turn my desktop into a Hackintosh and run Xcode from there. The whole process of making a Hackintosh as well as installing Xcode onto it took about two days of work. After I got Xcode working, I created the basic version of the app pretty quickly but the most challenging thing was ironing out the bugs for the Settings View, more specifically while implementing the different theme options.
+Since I don't own a macintosh I had to turn my desktop into a Hackintosh and run Xcode from there. The whole process of making a Hackintosh as well as installing Xcode onto it took about two days of work. After I got Xcode working, I created the basic version of the app pretty quickly but the most challenging thing was ironing out the bugs for the SettingsView. More specifically, implementing the different theme options took awhile to learn how to do because I ran into problems trying to set all views to the same theme. Another big challenge was when I came across something I wanted to do and there were no specific tutorials or forum posts about it so I had to look into the apple documentation to figure out how some functions work.
 
 ## License
 
