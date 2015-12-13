@@ -1,10 +1,10 @@
 # Tipper
 
-tipper is a tip calculator application for iOS.
+**tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Dylan Huang**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Theme options in the settings view
+
 
 ## Video Walkthrough 
 
@@ -33,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since I don't own a macintosh I had to turn my desktop into a Hackintosh and run Xcode from there. The whole process of making a Hackintosh as well as installing Xcode onto it took about two days of work. After I got Xcode working, I created the basic version of the app pretty quickly but the most challenging thing was ironing out the bugs for the Settings View, more specifically while implementing the different theme options.
 
 ## License
 
