@@ -1,4 +1,4 @@
-# tipper
+# Tipper
 
 tipper is a tip calculator application for iOS.
 
