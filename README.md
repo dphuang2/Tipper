@@ -29,11 +29,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Basic app usage and Theme Options
+<b> <u> Basic app usage and Theme Options </u> </b>
 
 <a href="http://imgur.com/hszhHN4"><img src="http://i.imgur.com/hszhHN4.gif" title="source: imgur.com" /></a>
 
-UI animation, Remembering Bill amount, and keyboard as First Responder
+<b> <u> UI animation, Remembering Bill amount, and keyboard as First Responder </u> </b>
 
 <a href="http://imgur.com/YMsRMdG"><img src="http://i.imgur.com/YMsRMdG.gif" title="source: imgur.com" /></a>
 
