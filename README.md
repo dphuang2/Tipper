@@ -27,9 +27,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories: <br>
+Here's a walkthrough of implemented user stories:
+
 Basic app usage and Theme Options
 <a href="http://imgur.com/hszhHN4"><img src="http://i.imgur.com/hszhHN4.gif" title="source: imgur.com" /></a>
+
 UI animation, Remembering Bill amount, and keyboard as First Responder
 <a href="http://imgur.com/YMsRMdG"><img src="http://i.imgur.com/YMsRMdG.gif" title="source: imgur.com" /></a>
 
