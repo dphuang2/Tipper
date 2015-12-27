@@ -4,7 +4,7 @@
 
 Submitted by: **Dylan Huang**
 
-Time spent: **6** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -14,21 +14,22 @@ The following **required** functionality is complete:
 * [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [x] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [x] Theme options in the settings view
+- [x] Added image in front of UITextField
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<a href="http://imgur.com/hszhHN4"><img src="http://i.imgur.com/hszhHN4.gif" title="source: imgur.com" /></a>
+Demonstrating basic app usage and Theme Options               Demonstrating UI animation, Remembering Bill amount, and keyboard as First Responder
+<a href="http://imgur.com/hszhHN4"><img src="http://i.imgur.com/hszhHN4.gif" title="source: imgur.com" /></a> <a href="http://imgur.com/YMsRMdG"><img src="http://i.imgur.com/YMsRMdG.gif" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
