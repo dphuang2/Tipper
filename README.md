@@ -37,8 +37,6 @@ Here's a walkthrough of implemented user stories:
 
 <a href="http://imgur.com/YMsRMdG"><img src="http://i.imgur.com/YMsRMdG.gif" title="source: imgur.com" /></a>
 
-<a href="http://imgur.com/IbPdp3d"><img src="http://i.imgur.com/IbPdp3d.gif" title="source: imgur.com" /></a>
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
